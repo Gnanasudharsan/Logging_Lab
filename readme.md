@@ -73,7 +73,7 @@ source venv/bin/activate
 ```bash
 pip install pandas
 ```
-⸻
+---
 
 ▶️ How to Run the Project
 
@@ -93,7 +93,7 @@ And a log file will be created automatically in:
 logs/app.log
 
 ```
-⸻
+---
 
 📊 Example Output (From This Project)
 ```bash
@@ -108,7 +108,7 @@ DEBUG - Maximum height from column ' Height(Inches)"'
 INFO  - Application finished successfully
 
 ```
-⸻
+---
 
 🧠 What This Lab Demonstrates
 
@@ -119,7 +119,7 @@ This custom lab goes beyond basic examples and shows:
 	•	How to log errors with tracebacks for debugging
 	•	How to make your logging pipeline reusable in large applications
 
-⸻
+---
 
 🚀 Enhancements Added (Not in Original Lab)
 	•	Smart column matching using regex
@@ -130,7 +130,7 @@ This custom lab goes beyond basic examples and shows:
 	•	Cleaner main application flow
 	•	Professional project structure used in industry
 
-⸻
+---
 
 📘 Dataset Used
 
