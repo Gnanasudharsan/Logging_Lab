@@ -125,7 +125,7 @@ This custom lab goes beyond basic examples and shows:
 
 ---
 
-🚀 Enhancements Added (Not in Original Lab)
+🚀 Enhancements Added
 
 	•	Smart column matching using regex
 	
