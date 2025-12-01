@@ -114,20 +114,31 @@ INFO  - Application finished successfully
 
 This custom lab goes beyond basic examples and shows:
 	•	How to structure Python projects like a real engineer
+	
 	•	How to configure multi-handler logging
+	
 	•	How to track data pipeline execution
+	
 	•	How to log errors with tracebacks for debugging
+	
 	•	How to make your logging pipeline reusable in large applications
 
 ---
 
 🚀 Enhancements Added (Not in Original Lab)
+
 	•	Smart column matching using regex
+	
 	•	Logging directory auto-creation
+	
 	•	Modular architecture with components
+	
 	•	Real-world dataset
+	
 	•	Exception safety for both loading and analytics
+	
 	•	Cleaner main application flow
+	
 	•	Professional project structure used in industry
 
 ---
@@ -136,10 +147,12 @@ This custom lab goes beyond basic examples and shows:
 
 Publicly available dataset:
 	•	Height and Weight Dataset (200 samples)
+	
 	•	Source: https://people.sc.fsu.edu/~jburkardt/data/csv/hw_200.csv
 
 This dataset has columns like:
 	•	"Height(Inches)"
+	
 	•	"Weight(Pounds)"
 
 The analyzer automatically detects these.
