@@ -17,7 +17,7 @@ All code is original, modular, and organized professionally.
 ---
 
 ## 📁 Project Structure
-
+```bash
 python-logging-lab-custom-Meena/
 │
 ├── app/
@@ -34,7 +34,7 @@ python-logging-lab-custom-Meena/
 ├── venv/                      # Virtual environment (not included in repo)
 │
 └── main.py                    # Main application runner
-
+```
 ---
 
 ## 🎯 Project Overview
