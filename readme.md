@@ -58,7 +58,7 @@ This lab demonstrates **professional-grade logging** using Python’s built-in `
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Gnanasudharsan/Logging_Lab
 cd python-logging-lab-custom-Meena
 ```
 2️⃣ Create a virtual environment
